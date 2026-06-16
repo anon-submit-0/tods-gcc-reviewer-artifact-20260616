@@ -1,0 +1,23 @@
+{
+  "versioned_provenance_replay": {
+    "snapshots": 1130,
+    "pin_complete": 1130,
+    "typed_equal_replay": true,
+    "replay_runs_identical_pct": 100.0,
+    "distinct_versions": {
+      "strategy_version": 1,
+      "data_version": 1,
+      "model_version": 1,
+      "decision_state_hash": 287,
+      "fact_snapshot_id": 15
+    },
+    "note": "\u540c\u6e90\u56de\u653e\u4e8c\u6b21\u7ed3\u679c typed-equal => replay \u51fd\u6570\u786e\u5b9a\u6027;\u5355\u4e00(strategy,data,model)\u4e09\u5143\u7ec4 => \u8de8\u7248\u672c\u5224\u522b\u9700\u591a\u7248\u672c\u5feb\u7167(\u8bda\u5b9e\u6807 future-work)"
+  },
+  "ranking_auditability_boundary": {
+    "snapshots_with_items": 1130,
+    "rank_score_consistent": 844,
+    "pct": 74.69,
+    "note": "\u5feb\u7167\u5185\u6309 rank \u5347\u5e8f score \u5355\u8c03\u4e0d\u589e => \u6392\u5e8f\u53ef\u7531\u8bb0\u5f55\u7684 score \u590d\u73b0(ranking auditability)"
+  },
+  "scope_note": "Replay is typed disposition replay over a fixed released claim set. It is not model-text determinism and not a full ranking re-execution claim."
+}

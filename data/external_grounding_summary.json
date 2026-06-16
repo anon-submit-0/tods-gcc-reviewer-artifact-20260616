@@ -1,0 +1,14 @@
+{
+  "available": true,
+  "source_products": 27,
+  "bridged_products": 21,
+  "attribute_facts_on_bridged_products": 57292,
+  "bridged_products_with_parameters": 21,
+  "reviews_on_bridged_products": 2033,
+  "recommendation_items": 4162,
+  "recommendation_items_with_external_truth": 2763,
+  "surfaced_claims": 121760,
+  "surfaced_claims_with_external_truth": 97010,
+  "spec_claims": 79770,
+  "spec_claims_with_external_truth": 69075
+}

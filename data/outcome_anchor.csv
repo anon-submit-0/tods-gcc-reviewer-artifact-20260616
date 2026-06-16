@@ -1,0 +1,7 @@
+aspect,mapped_defects,real_return_problem_qty,policy
+easy assembly,Parts missing; Holes not matched; Parts mixed,7630,degrade/caveat
+keypad/controller,Error code on keypad; Keypad not responding; No display on keypad; Partial display on keypad,9761,degrade/caveat
+quiet/low-noise,Noise,1869,degrade/caveat
+smooth up/down,Up/Down/forward/backwards not functioning; Up not functioning,5289,degrade/caveat
+stability/no-wobble,Wobbling; Uneven legs,4132,degrade/caveat
+usb charging,USB no charging,777,degrade/caveat
